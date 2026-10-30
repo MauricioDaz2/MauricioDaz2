@@ -1,17 +1,17 @@
 <p align="center">
-  <img src="./Desarrollador.gif" alt="Animación de bienvenida" width="100%" />
+  <img src="videos/Desarrollador.gif" alt="Animación de bienvenida" width="100%" />
 </p>
 
 <div align="center">
   <h1>Salinas Tamayo David Mauricio</h1>
-  <p><h3>Estudiante de Ingeniería de Software</h3></p>
+  <p><h3>Software Engineering Student.</h3></p>
 </div>
 
 ---
 
 ### 💻 Sobre mí
 
-Actualmente me encuentro cursando la carrera de Ingeniería de Software, enfocado en el desarrollo de soluciones robustas, la gestión eficiente de bases de datos y la simulación de infraestructuras de red. Mi lenguaje principal es **Java**, y cuento con experiencia práctica en el desarrollo de aplicaciones de escritorio, arquitecturas orientadas a servicios y control de versiones con Git.
+Currently, I am pursuing a degree in Software Engineering, focusing on the development of robust solutions, efficient database management, and network infrastructure simulation. My primary programming language is Java, and I have practical experience in desktop application development, service-oriented architectures, and version control using Git.
 
 ---
 
@@ -50,12 +50,11 @@ Actualmente me encuentro cursando la carrera de Ingeniería de Software, enfocad
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Estadísticas de GitHub" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=MauricioDaz2&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Estadísticas de GitHub" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioDaz2&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
 </div>
 
 ---
 
 ### 📈 Conectemos
-* 💼 **GitHub:** [Tú Usuario](https://github.com/TU_USUARIO_GITHUB)
+- 💼 **GitHub:** [David Salinas](https://github.com/MauricioDaz2)
