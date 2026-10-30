@@ -1,6 +1,10 @@
+<p align="center">
+  <img src="./Desarrollador.gif" alt="Animación de bienvenida" width="100%" />
+</p>
+
 <div align="center">
-  <h1>¡Hola, soy David! 👋</h1>
-  <p><h3>Estudiante de Ingeniería de Software | Apasionado por el Backend y la Arquitectura de Sistemas</h3></p>
+  <h1>Salinas Tamayo David Mauricio</h1>
+  <p><h3>Estudiante de Ingeniería de Software</h3></p>
 </div>
 
 ---
