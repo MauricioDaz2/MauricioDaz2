@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="videos/Desarrollador.gif" alt="Animación de bienvenida" width="35%" />
+  <img src="videos/Desarrollador.gif" alt="Animación de bienvenida" width="45%" />
 </p>
 
 <div align="center">
@@ -47,14 +47,17 @@ Currently, I am pursuing a degree in Software Engineering, focusing on the devel
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 🎯 Enfoque Actual y Metas
 
-### 📊 Estadísticas de GitHub
+🔭 Currently working on: 
+          Backend architectures in Java and optimization of stored procedures in PL/SQL.
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=MauricioDaz2&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)](https://github.com/MauricioDaz2/github-readme-stats)
+🌱 Currently learning: 
+          Automation with Docker and best practices for Service-Oriented Architectures (SOA).
 
-[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioDaz2&layout=compact&theme=radical&hide_border=true)](https://github-readme-stats.vercel.app/github-readme-stats)
----
+💬 Ask me about: 
+          Java application development, advanced SQL queries, and network configuration.
+
 
 ### 📈 Conectemos
 - 💼 **GitHub:** [MauricioDaz2](https://github.com/MauricioDaz2)
