@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="videos/Desarrollador.gif" alt="Animación de bienvenida" width="100%" />
+  <img src="videos/Desarrollador.gif" alt="Animación de bienvenida" width="35%" />
 </p>
 
 <div align="center">
@@ -49,12 +49,12 @@ Currently, I am pursuing a degree in Software Engineering, focusing on the devel
 
 ### 📊 Estadísticas de GitHub
 
-<div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=MauricioDaz2&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Estadísticas de GitHub" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioDaz2&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
-</div>
+### 📊 Estadísticas de GitHub
 
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=MauricioDaz2&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)](https://github.com/MauricioDaz2/github-readme-stats)
+
+[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioDaz2&layout=compact&theme=radical&hide_border=true)](https://github-readme-stats.vercel.app/github-readme-stats)
 ---
 
 ### 📈 Conectemos
-- 💼 **GitHub:** [David Salinas](https://github.com/MauricioDaz2)
+- 💼 **GitHub:** [MauricioDaz2](https://github.com/MauricioDaz2)
