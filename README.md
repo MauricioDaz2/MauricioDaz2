@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="videos/Desarrollador.gif" alt="Animación de bienvenida" width="55%" />
+  <img src="videos/Desarrollador.gif" alt="Animación de bienvenida" width="65%" />
 </p>
 
 <div align="center">
@@ -63,5 +63,5 @@ Currently, I am pursuing a degree in Software Engineering, focusing on the devel
 - 💼 **GitHub:** [MauricioDaz2](https://github.com/MauricioDaz2)
 
 <p align="center">
-  <img src="imagenes/Desarrollador2.jpg" alt="Texto alternativo" width="80%" />
+  <img src="imagenes/Desarrollador2.jpg" alt="Texto alternativo" width="35%" />
 </p>
